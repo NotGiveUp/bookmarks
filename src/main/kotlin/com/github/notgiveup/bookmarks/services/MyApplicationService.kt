@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.notgiveup.bookmarks.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.notgiveup.bookmarks.MyBundle
 
 class MyApplicationService {
 
